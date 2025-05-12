@@ -1,0 +1,1 @@
+# SnapSale-Price-Comparator-Platform
