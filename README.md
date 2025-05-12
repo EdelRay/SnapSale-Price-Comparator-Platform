@@ -1,6 +1,6 @@
-# 🧠 Smart Price Comparator Platform
+# 🧠 SnapSale : Smart Price Comparator Platform
 
-Welcome to the **Smart Price Comparator Project**, a full-scale Business Intelligence and Machine Learning platform that helps users make optimized decisions across **flight & hotel reservations** and **supermarket product purchases**.
+Welcome to the **SnapSale Price Comparator Project**, a full-scale Business Intelligence and Machine Learning platform that helps users make optimized decisions across **flight & hotel reservations** and **supermarket product purchases**.
 
 This repository documents our end-to-end system that integrates data analytics, AI/ML models, and interactive dashboards tailored to **customers** and **business owners**. Our goal is to create transparency, personalization, and efficiency in pricing decisions across multiple domains.
 
