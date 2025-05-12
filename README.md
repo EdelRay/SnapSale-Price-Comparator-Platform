@@ -83,16 +83,33 @@ Owners can filter by region, store, or holiday season, and export data as needed
 
 ---
 
-## 📂 Project Structure
 
-📁 /data
-Raw and cleaned datasets (supermarket, flight, hotel)
-📁 /models
-Trained ML/DL models
-📁 /powerbi
-Power BI .pbix files (Customer and Business dashboards)
-📁 /reports
-Auto-generated written reports
-📁 /notebooks
-Exploratory and model training notebooks
+---
+
+## 📌 How to Run
+
+1. Clone the repository
+2. Install required dependencies using `requirements.txt`
+3. Run notebooks for machine learning pipelines
+4. Open Power BI `.pbix` files to explore dashboards
+5. Export reports as needed
+
+---
+
+## 🧠 Authors & Credits
+
+Developed by a team of passionate data science & BI engineering students focused on transforming complex data into meaningful decisions.
+
+---
+
+## 📫 Contact
+
+For any inquiries or feedback, feel free to open an issue or contact the repository owner.
+
+---
+
+## 🌐 License
+
+This project is licensed under the MIT License.
+
 
