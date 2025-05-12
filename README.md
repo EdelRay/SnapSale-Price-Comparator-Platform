@@ -72,6 +72,20 @@ Owners can filter by region, store, or holiday season, and export data as needed
 
 ---
 
+## 🌐 Web Application
+
+The platform is fully accessible via a custom web application built with:
+
+🔸 Angular: For a fast, responsive, and modern UI
+
+🔹 Flask: For backend API logic and integration with machine learning models
+
+🔄 Model APIs: Serve predictions and recommendations to the frontend
+
+📈 Embedded Dashboards: Power BI dashboards integrated directly into the user interface
+
+---
+
 ## 🔧 Technologies Used
 
 - **Power BI** – Dynamic dashboards and visual analytics
@@ -80,9 +94,6 @@ Owners can filter by region, store, or holiday season, and export data as needed
 - **DAX** – Custom Power BI calculations (e.g., product with highest price, delay rates)
 - **SQL** – Data storage and retrieval
 - **GitHub** – Version control and documentation
-
----
-
 
 ---
 
@@ -98,7 +109,11 @@ Owners can filter by region, store, or holiday season, and export data as needed
 
 ## 🧠 Authors & Credits
 
-Developed by a team of passionate data science & BI engineering students focused on transforming complex data into meaningful decisions.
+AI & Data Science : Rayhane Layouni & Nawres Ahmed
+
+Business Intelligence & Dashboard Design: Firas Beltaief
+
+Web Development: Loujayine Bouaicha & Achref Guemri
 
 ---
 
