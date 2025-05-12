@@ -85,3 +85,14 @@ Owners can filter by region, store, or holiday season, and export data as needed
 
 ## 📂 Project Structure
 
+📁 /data
+Raw and cleaned datasets (supermarket, flight, hotel)
+📁 /models
+Trained ML/DL models
+📁 /powerbi
+Power BI .pbix files (Customer and Business dashboards)
+📁 /reports
+Auto-generated written reports
+📁 /notebooks
+Exploratory and model training notebooks
+
